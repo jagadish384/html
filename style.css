@@ -1,0 +1,64 @@
+body {
+  background-color: rgba(215, 17, 17, 0.234);
+}
+i{
+    color: blue;
+}
+a{
+    border-bottom: 2px solid rgba(0, 0, 255, 0.671);
+}
+.box{
+    padding: 60px 10px;
+
+}
+.container {
+  padding: 20px;
+}
+p{
+    padding: 20px 0;
+}
+.insta,.twitter,.fb,.GitHub,.Google,.PinInterest {
+  border-radius: 20px;
+  padding: 25px 10px;
+  margin: 25px 0px;
+  text-align: center;
+  background-color: white;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
+
+/* body {
+    margin: 0;
+    padding: 0; 
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 100vh;
+}
+.login-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+.button{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(141, 141, 225);
+    border-radius: 10px;
+    border-color: brown;
+    
+} */
+/* .news{
+    box-sizing: 100px;
+  color: blue;
+  text-align: center;
+  justify-content: center;
+  border-radius:10px ;
+
+} */
